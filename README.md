@@ -1,4 +1,6 @@
 # Digital Lock System
-This is a RFID and Numeric keypad based lock system, where a person can unlock the system using valid rfid card or using the 4 digit numeric code.
+This is a hardware project done for our CSE-326 (Computer Peripherals and Interfacing Laboratory) course. 
 
-This repository contains the necessary circuit diagram and codes. 
+A RFID module and a keypad is utilized to perform lock / unlock operations.
+
+This repository contains all the related files to the hardware project.
